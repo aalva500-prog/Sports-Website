@@ -1,2 +1,2 @@
-# Sports Website
- HTML, PHP, CSS, and MySQL
+# Course: WEbsite Management (Sports Website)
+HTML, PHP, CSS, JavaScript, and MySQL
